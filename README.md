@@ -2,6 +2,8 @@
 
 A weather app created using the Open Weather API to display the current weather in a given city.
 
+Check it out here: https://calum09.github.io/WeatherApp/
+
 ---
 
 ### Installation Instructions
