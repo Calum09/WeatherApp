@@ -4,6 +4,8 @@ A weather app created using the Open Weather API to display the current weather 
 
 Check it out here: https://calum09.github.io/WeatherApp/
 
+<img width="461" alt="Screenshot 2023-06-19 at 16 30 26" src="https://github.com/Calum09/WeatherApp/assets/111386433/dbe5a73d-1c20-410e-b78a-e01d46497388">
+
 ---
 
 ### Installation Instructions
