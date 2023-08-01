@@ -31,6 +31,7 @@ let getWeather = () => {
       // If there's an error reduce the container size and show the correct error image
       if (json.cod === "404") {
         placeNames.innerHTML = "";
+        error.innerHTML = "";
         container.style.height = "300px";
         weatherBox.style.display = "";
         error404.style.display = "block";
