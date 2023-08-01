@@ -171,6 +171,15 @@ body {
   animation-delay: 0.5s;
 }
 
+#placeName {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: 500;
+}
+
 @keyframes fadeIn {
   to {
     scale: 1;
